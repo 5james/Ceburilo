@@ -1,0 +1,18 @@
+PODS:
+  - Alamofire (4.4.0)
+  - GLMap (0.8.8)
+  - GLMapSwift (0.8.8):
+    - GLMap (= 0.8.8)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - GLMapSwift
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  GLMap: a7100b30a690f830f7b20416cf44ca74b3e7d136
+  GLMapSwift: 8349b19612e37303dc3bde8a1ee97564f19e72ff
+
+PODFILE CHECKSUM: bc4d2e16d7843f33a248bca21f5693d16882aa92
+
+COCOAPODS: 1.2.1
